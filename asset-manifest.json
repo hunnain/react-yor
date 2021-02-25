@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-yor/static/css/main.19f1c5ec.chunk.css",
+    "main.js": "/react-yor/static/js/main.06865741.chunk.js",
+    "main.js.map": "/react-yor/static/js/main.06865741.chunk.js.map",
+    "runtime-main.js": "/react-yor/static/js/runtime-main.0c4a036f.js",
+    "runtime-main.js.map": "/react-yor/static/js/runtime-main.0c4a036f.js.map",
+    "static/js/2.d0cb5842.chunk.js": "/react-yor/static/js/2.d0cb5842.chunk.js",
+    "static/js/2.d0cb5842.chunk.js.map": "/react-yor/static/js/2.d0cb5842.chunk.js.map",
+    "static/js/3.d9b77bdf.chunk.js": "/react-yor/static/js/3.d9b77bdf.chunk.js",
+    "static/js/3.d9b77bdf.chunk.js.map": "/react-yor/static/js/3.d9b77bdf.chunk.js.map",
+    "index.html": "/react-yor/index.html",
+    "static/css/main.19f1c5ec.chunk.css.map": "/react-yor/static/css/main.19f1c5ec.chunk.css.map",
+    "static/js/2.d0cb5842.chunk.js.LICENSE.txt": "/react-yor/static/js/2.d0cb5842.chunk.js.LICENSE.txt",
+    "static/media/applestorelogo.8c4986ee.svg": "/react-yor/static/media/applestorelogo.8c4986ee.svg",
+    "static/media/logo.c9434e73.svg": "/react-yor/static/media/logo.c9434e73.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c4a036f.js",
+    "static/js/2.d0cb5842.chunk.js",
+    "static/css/main.19f1c5ec.chunk.css",
+    "static/js/main.06865741.chunk.js"
+  ]
+}
