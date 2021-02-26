@@ -58,6 +58,10 @@ color: #000000;
   margin-top: 6%;
 }
 
+/* .footermiddlepoint{
+  width: 200px;
+} */
+
 .privacy {
   font-family: Helvetica Neue;
   font-style: normal;
@@ -67,7 +71,7 @@ color: #000000;
   /* identical to box height */ 
   color: #0DAEFF;
   text-decoration: none;
-  padding-right: 1%;
+  padding-right: 0.5%;
 }
 
 .terms {
@@ -79,7 +83,8 @@ color: #000000;
   /* identical to box height */ 
   color: #0DAEFF;
   text-decoration: none;
-  padding-right: 1%;
+  padding-right: 0.5%;
+  padding-left: 0.5%;
 }
 
 .contact {
@@ -91,6 +96,12 @@ color: #000000;
   /* identical to box height */ 
   color: #0DAEFF;
   text-decoration: none;
+  padding-left: 0.6%;
+  /* padding-right: 0.5%; */
+}
+
+.elimg{
+  margin-bottom: 0.08%;
 }
 
 .App-link {
